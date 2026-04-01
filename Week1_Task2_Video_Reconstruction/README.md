@@ -14,3 +14,5 @@ Video generated successfully from frames.
 Learning Outcome
 Learned how to reconstruct a video from image frames.
 
+The video was reconstructed successfully from extracted frames.But,
+Due to file size constraints, the video was compressed before uploading while maintaining acceptable quality.
