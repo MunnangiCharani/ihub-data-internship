@@ -1,0 +1,16 @@
+## Week 3 Task 2: Video Stacking using FFmpeg
+
+### Description
+Stacked raw, detection, and segmentation videos vertically and added background audio.
+
+### Steps
+- Created raw video from frames
+- Used FFmpeg vstack to combine videos
+- Removed original audio
+- Added new audio track
+
+### Final Output
+https://drive.google.com/file/d/18cxF0PDkst21Iq05pkUqxn4IQalTSDxu/view?usp=sharing
+
+### Learning
+Learned video manipulation using FFmpeg and combining multiple outputs into a single visualization.
